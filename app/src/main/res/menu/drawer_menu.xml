@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/searchNavBar"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="SEARCH" />
+        <item
+            android:id="@+id/bookFavNav"
+            android:title="FAVOURITES" />
+        <item
+            android:id="@+id/aboutNavBar"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="ABOUT" />
+    </group>
+</menu>

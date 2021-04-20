@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project - Hadi Fayad 000397306</string>
+    <string name="open">\"Drawer Is Open\"</string>
+    <string name="close">Drawer Is Closed</string>
+    <string name="textChecker">Input a favourite book or author</string>
+    <string name="aboutText">BookFinder is a school project made by Hadi Fayad that uses Googles Book API that lets the user
+    enter a search query of their favourite book or favourite author then displays a list of the books that, once clicked,
+    shows the user information about the books title, author, publisher, date of publish, description and a thumbnail of
+    the book they chose to click on.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
